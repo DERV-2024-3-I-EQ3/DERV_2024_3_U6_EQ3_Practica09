@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="pider" size="10.000000 14.260000" />
+    <ImageTarget name="PO" size="10.000000 12.594203" />
+    <ImageTarget name="gummigoo" size="10.000000 10.000000" />
+  </Tracking>
+</QCARConfig>
